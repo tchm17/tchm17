@@ -8,3 +8,5 @@ My name is Thomas. I am a graphic designer based in France.
 - 📫 How to reach me: https://tomsform.typeform.com/to/seZJ0TV4
 
 https://thomaschamousset.com
+
+[![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tchm17)](https://github.com/anuraghazra/github-readme-stats)
