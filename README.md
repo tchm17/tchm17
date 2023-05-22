@@ -1,10 +1,8 @@
-### Hi there 👋
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thomaschamousset/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/thomaschamousset) 
 
-My name is Thomas. I am a graphic designer based in France.
-💻 I do digital design, branding design and UI design. Of course, I code too (familiar with HTML, CSS, NextJS and TailwindCSS).
-
-- 🔭 I’m currently working on projects to show on my portfolio.
-- 🌱 I’m currently learning the basics of 3D Design.
-- 📫 How to reach me: https://tomsform.typeform.com/to/seZJ0TV4
-
-https://thomaschamousset.com
+- 🔭 Feel free to checkout my [portfolio](https://thomaschamousset.com/) website!
+- 🐯 Freelance Graphic Designer in Lyon, France.
+- 🚀 I am use to build with `Next.js` and `Tailwind`
+- ⚡ I enjoy playing tennis, hiking in the Alps and playing video games :)
+- 📫 How to reach me: chamousset.thomas@gmail.com
