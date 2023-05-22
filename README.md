@@ -3,6 +3,6 @@
 
 - 🔭 Feel free to checkout my [portfolio](https://thomaschamousset.com/) website!
 - 🐯 Freelance Graphic Designer in Lyon, France.
-- 🚀 I am use to build with `Next.js` and `Tailwind`
+- 🚀 I am used to build with `Next.js` and `Tailwind`
 - ⚡ I enjoy playing tennis, hiking in the Alps and playing video games :)
 - 📫 How to reach me: chamousset.thomas@gmail.com
